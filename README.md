@@ -206,7 +206,7 @@ IoT-based automated lighting control using computer vision:
 #### 🏫 [Smart University Project Management Platform](https://github.com/abdelaziz2003vvb)
 Comprehensive platform for managing academic projects and collaboration.
 
-#### 📊 [MM-CTR-Multimodal-CTR-Prediction-Challenge](https://github.com/abdelaziz2003vvb)
+#### 📊 [MM-CTR-Multimodal-CTR-Prediction-Challenge](https://github.com/abdelaziz2003vvb/MM-CTR-Multimodal-CTR-Prediction-Challenge)
 Multimodal click-through rate prediction using deep learning.
 
 ---
