@@ -13,7 +13,7 @@
 I'm a **Master's student in Advanced Machine Learning and Multimedia Intelligence** at the Faculty of Sciences Dhar El Mehraz, Fes, Morocco. I specialize in developing production-ready AI systems with expertise in Computer Vision, NLP, RAG architectures, and Web3 technologies.
 
 🔍 **Currently seeking**: End-of-studies internship (PFE) to apply advanced ML/AI techniques to real-world challenges  
-📍 **Location**: Fes, Morocco  
+📍 **Location**: Fez, Morocco  
 🌐 **Languages**: French (Fluent), English (Fluent), Arabic (Native)
 
 ---
