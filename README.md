@@ -86,7 +86,7 @@ I'm a **Master's student in Advanced Machine Learning and Multimedia Intelligenc
 
 ### 🎯 Production & Research Systems
 
-#### 🤖 [Enhanced RAG System with DeepEval Evaluation](https://github.com/abdelaziz2003vvb)
+#### 🤖 [Enhanced RAG System with DeepEval Evaluation](https://github.com/abdelaziz2003vvb/Enhanced-RAG-System-with-DeepEval-Evaluation)
 Production-grade Retrieval-Augmented Generation system with comprehensive evaluation:
 - Hybrid search architecture (vector + BM25) over 1,000+ documents
 - Cohere LLM integration (command-r-plus, embed, rerank-v3)
@@ -94,20 +94,20 @@ Production-grade Retrieval-Augmented Generation system with comprehensive evalua
 - Automated quality assessment using RAGAS and DEEPEVAL metrics
 - **Stack**: Python, LangChain, FastAPI, Streamlit, ChromaDB, FAISS, Redis
 
-#### 🎓 [Course RAG System – AI Assistant for Learning Materials](https://github.com/abdelaziz2003vvb)
+#### 🎓 [Course RAG System – AI Assistant for Learning Materials](https://github.com/abdelaziz2003vvb/Course-RAG-System---AI-Assistant-for-Learning-Materials)
 Intelligent educational assistant leveraging RAG architecture:
 - Context-aware responses from course materials
 - Multi-document retrieval and synthesis
 - **Stack**: Python, LangChain, Vector DB
 
-#### 📚 [MyTourismRAG](https://github.com/abdelaziz2003vvb)
+#### 📚 [MyTourismRAG](https://github.com/abdelaziz2003vvb/MyTourismRAG)
 Tourism-focused RAG system providing intelligent travel recommendations and information retrieval.
 
 ---
 
 ### 🧠 Computer Vision & Biometrics
 
-#### 👤 [Face Recognition Methods Survey](https://github.com/abdelaziz2003vvb)
+#### 👤 [Face Recognition Methods Survey](https://github.com/abdelaziz2003vvb/Face-Recognition-Methods-Survey)
 Comprehensive implementation of classical face recognition approaches:
 - Local methods: LBP, HOG, ORB
 - Holistic methods: PCA (Eigenfaces), LDA (Fisherfaces), Kernel PCA
