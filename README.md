@@ -80,136 +80,15 @@ I'm a **Master's student in Advanced Machine Learning and Multimedia Intelligenc
 
 </details>
 
----
 
-## 🚀 Featured Projects
 
-### 🎯 Production & Research Systems
 
-#### 🤖 [Enhanced RAG System with DeepEval Evaluation](https://github.com/abdelaziz2003vvb/Enhanced-RAG-System-with-DeepEval-Evaluation)
-Production-grade Retrieval-Augmented Generation system with comprehensive evaluation:
-- Hybrid search architecture (vector + BM25) over 1,000+ documents
-- Cohere LLM integration (command-r-plus, embed, rerank-v3)
-- Redis caching achieving <2s response times
-- Automated quality assessment using RAGAS and DEEPEVAL metrics
-- **Stack**: Python, LangChain, FastAPI, Streamlit, ChromaDB, FAISS, Redis
-
-#### 🎓 [Course RAG System – AI Assistant for Learning Materials](https://github.com/abdelaziz2003vvb/Course-RAG-System---AI-Assistant-for-Learning-Materials)
-Intelligent educational assistant leveraging RAG architecture:
-- Context-aware responses from course materials
-- Multi-document retrieval and synthesis
-- **Stack**: Python, LangChain, Vector DB
-
-#### 📚 [MyTourismRAG](https://github.com/abdelaziz2003vvb/MyTourismRAG)
-Tourism-focused RAG system providing intelligent travel recommendations and information retrieval.
-
----
-
-### 🧠 Computer Vision & Biometrics
-
-#### 👤 [Face Recognition Methods Survey](https://github.com/abdelaziz2003vvb/Face-Recognition-Methods-Survey)
-Comprehensive implementation of classical face recognition approaches:
-- Local methods: LBP, HOG, ORB
-- Holistic methods: PCA (Eigenfaces), LDA (Fisherfaces), Kernel PCA
-- Complete pipeline: detection → feature extraction → classification
-- Tested on LFW dataset with extensive documentation
-- **Stack**: Python, OpenCV, Scikit-learn
-
-#### 🔐 Fingerprint Recognition – Minutiae vs Descriptors
-Comparative biometric system implementing two methodologies:
-- Minutiae-based approach with rigid matching and EER/ROC evaluation
-- Local descriptor approach using ORB and SIFT
-- Performance analysis on real fingerprint datasets
-- **Stack**: Python, OpenCV, scikit-image
-
-#### 🖼️ [Image Processing Toolkit](https://github.com/abdelaziz2003vvb)
-Collection of image processing algorithms and techniques for various computer vision tasks.
-
----
-
-### 🗣️ Speech & NLP
-
-#### 🎤 [Speech Recognition using DL-MFCC](https://github.com/abdelaziz2003vvb)
-Deep learning-based speaker recognition system:
-- MFCC feature extraction with CNN architecture
-- Trained on Kaggle Speaker Recognition Dataset
-- Real-time speaker identification
-- **Stack**: Python, TensorFlow, Librosa
-
-#### 📝 [Classification of Arabic Texts with Python-Flask](https://github.com/abdelaziz2003vvb)
-Arabic NLP classification system with web interface.
-
-#### 📊 [Classification of Arabic Texts with Naive Bayes](https://github.com/abdelaziz2003vvb)
-Statistical approach to Arabic text classification.
-
-#### 🐦 [Tweet Analysis](https://github.com/abdelaziz2003vvb) | [Tweets Analysis in Real-Time](https://github.com/abdelaziz2003vvb)
-Real-time sentiment analysis and insights from Twitter data streams.
-
-#### 🧪 [Arabic Text Mining API](https://github.com/abdelaziz2003vvb)
-RESTful API for Arabic natural language processing tasks.
-
----
-
-### 🎨 Generative AI & GANs
-
-#### 🖌️ [Pix2Pix GAN – Image-to-Image Translation](https://github.com/abdelaziz2003vvb)
-Implementation of conditional GAN for paired image translation tasks.
-
-#### 🎭 [GAN_Mnist](https://github.com/abdelaziz2003vvb)
-Generative Adversarial Network trained on MNIST dataset for digit generation.
-
-#### ⚡ [WGAN – Wasserstein GAN](https://github.com/abdelaziz2003vvb)
-Improved GAN training using Wasserstein distance.
-
-#### 🎨 [WGAN-GP – Wasserstein GAN with Gradient Penalty](https://github.com/abdelaziz2003vvb)
-Enhanced WGAN with gradient penalty for stable training.
-
-#### 🎯 [DCGAN – Deep Convolutional Generative Adversarial Networks](https://github.com/abdelaziz2003vvb)
-CNN-based GAN architecture for high-quality image generation.
-
----
-
-### 🌐 Web3 & Blockchain
-
-#### 🔒 [Secure Urban Data with Blockchain Technology](https://github.com/abdelaziz2003vvb)
-Decentralized system for securing urban data using blockchain.
-
-#### ⛓️ [StakeBlockchain](https://github.com/abdelaziz2003vvb)
-Blockchain staking mechanism implementation.
-
-#### 🏛️ [Cabinet Dentaire](https://github.com/abdelaziz2003vvb) ⭐ Starred
-Dental clinic management system (blockchain-integrated).
-
----
 
 ### 🌍 Smart City & IoT
 
-#### 🚦 [Smart City Traffic Management System-JADE](https://github.com/abdelaziz2003vvb)
-Multi-agent system for intelligent traffic management:
-- Real-time traffic optimization using JADE framework
-- Agent-based decision making
-- **Stack**: Java, JADE
 
-#### 🗺️ [Geographic Hotel Search with Neo4j & OpenStreetMap](https://github.com/abdelaziz2003vvb)
-Location-based hotel recommendation system leveraging graph databases and geospatial data.
 
-#### 📹 [Smart Lighting Management System with ESP32-CAM](https://github.com/abdelaziz2003vvb)
-IoT-based automated lighting control using computer vision:
-- ESP32-CAM integration with Edge Impulse
-- Real-time object detection for occupancy sensing
-- **Stack**: C++, Arduino, Edge Impulse, ESP32-CAM
 
----
-
-### 🎓 Academic & Enterprise Projects
-
-#### 🏫 [Smart University Project Management Platform](https://github.com/abdelaziz2003vvb)
-Comprehensive platform for managing academic projects and collaboration.
-
-#### 📊 [MM-CTR-Multimodal-CTR-Prediction-Challenge](https://github.com/abdelaziz2003vvb/MM-CTR-Multimodal-CTR-Prediction-Challenge)
-Multimodal click-through rate prediction using deep learning.
-
----
 
 ## 📜 Certifications
 
